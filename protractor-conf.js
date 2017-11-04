@@ -6,7 +6,7 @@ var jasmineReporters = require('jasmine-reporters');
 exports.config = {
   framework: 'jasmine',
   directConnect: true,
-  chromeDriver : process.env.chromedriver,
+//  chromeDriver : process.env.chromedriver,
   getPageTimeout: 60000,
   allScriptsTimeout: 15000,
   jasmineNodeOpts: {defaultTimeoutInterval: 30000},
