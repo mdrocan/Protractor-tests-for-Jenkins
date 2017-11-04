@@ -1,11 +1,11 @@
-# Protractor testing for an AngularJS based web application
+# Protractor testing on an AngularJS application
 
-- Tested and developed together with the following software bundle: https://github.com/mdrocan/Dockerized-testenv
+Tested and developed together with the following software bundle: https://github.com/mdrocan/Dockerized-testenv
 
 ### About
 
 - Simple demo of how to execute tests with Protractor. 
-- Using directConnect:true feature.
+- Utilizing directConnect:true feature.
 - Testreports created with jasmine-reporters and protractor-jasmine2-html-reporter.
 
 ### Configuration
