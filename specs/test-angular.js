@@ -17,7 +17,7 @@ describe('Access AngularJS page', function() {
     var page = new AngularPage();
     page.visit();
     browser.waitForAngular();
-    expect(browser.getCurrentUrl()).toEqual('https://www.angularjs.org/');
+    expect(browser.getCurrentUrl()).toEqual('https://angularjs.org/');
   });
 });
 
